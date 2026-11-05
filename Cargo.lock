@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "xorg_server"
+name = "sigmaos_xorg_server"
 version = "0.1.0"

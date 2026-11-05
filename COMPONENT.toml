@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-xorg-server"
+tier = 1
+description = "X11 / Xwayland compatibility server shim and rootless X client display bridge"
+contracts = ['xorg-server-shim', 'xwayland-rootless-bridge', 'x11-display-host']
+upstream_inspirations = ['https://github.com/linuxmint/xorg-server-lts-vivid']
